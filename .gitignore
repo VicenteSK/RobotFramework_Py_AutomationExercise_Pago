@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Entorno virtual
+entorno/
+env/
+venv/
+
+# Robot Framework output
+output.xml
+log.html
+report.html
+
+# VS Code
+.vscode/
+
+# PyInstaller
+dist/
+build/
+
+# Playwright / Browser Library
+browser/
